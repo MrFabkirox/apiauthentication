@@ -1,0 +1,20 @@
+{
+  "name": "apiauthentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apiauthentication.js",
+  "scripts": {
+    "start": "nodemon apiauthentication.js"
+  },
+  "author": "Fabrice Esope",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "eslint": "^5.9.0",
+    "express": "^4.16.4",
+    "express-promise-router": "^3.0.3",
+    "joi": "^14.1.0",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.6"
+  }
+}
